@@ -13,7 +13,7 @@
 
 ### 📚 Проекты 📚
 
-* Приклеплены в разделе Pines
+* Приклеплены ниже
 
 ### 💡 Основные инструменты и компетенции 💡
 - **Инструменты:** Python, Scikit-learn, TensorFlow, PyTorch, PostgreSQL
@@ -58,7 +58,7 @@
 
 ### 📚 Projects 📚
 
-* Attached in the Pines section
+* Attached below
 
 ### 💡 Core Competencies 💡
 - **Tools:** Python, Scikit-learn, TensorFlow, PyTorch, PostgreSQL
