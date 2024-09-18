@@ -39,7 +39,7 @@
 - Активно изучаю возможности стажировки в крупной IT-компании
 
 ### 🙌🏻 Свяжись со мной
-- [Telegram](#)
+- Leonardodaladno@yandex.ru
 
 ---
 
@@ -83,5 +83,5 @@
 - Actively exploring internship opportunities in a large IT company
 
 ### 🙌🏻 Contact Me
-- [Telegram](#)
+- Leonardodaladno@yandex.ru
 
